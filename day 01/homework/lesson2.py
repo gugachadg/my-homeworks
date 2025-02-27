@@ -2,7 +2,7 @@ name="guga"
 surname="akolashvili"
 age=11
 
-height=135.9
+height=147.9
 
 KNOWS_PROGRAMMING=True
 programming=KNOWS_PROGRAMMING
