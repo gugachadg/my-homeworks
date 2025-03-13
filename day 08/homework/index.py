@@ -13,5 +13,8 @@
 for i in range(15):
    print(i)
    
-   
+   sum = 0
+for i in range(0, 10):
+   sum = sum + i
+ 
 # გაკვეთილის ჩანაწერს უნდა გადაგვეხედა
