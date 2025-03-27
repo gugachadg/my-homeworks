@@ -1,3 +1,3 @@
 num1 = int(input("pls enter your number: "))
-print(num >= 5 and num <= 10)
+print(num1 >= 5 and num1 <= 10)
     
